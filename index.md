@@ -1,4 +1,4 @@
 # codnjs3.github.io
 
-# Test
-https://codnjs3.github.io/test.html
+Test[test]
+[test](https://codnjs3.github.io/test.html)
